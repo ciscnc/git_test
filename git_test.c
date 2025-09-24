@@ -6,7 +6,7 @@ int main(){
 
     //测试版本回滚 git reset --hard 版本号
     //soft和hard的区别：
-    //
+    //暂存测试
     //
 
     return 0;
