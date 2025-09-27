@@ -16,3 +16,5 @@ updata: local 1
 updata: local 2
 updata: local 3
 updata: local 4
+updata: remote 3
+updata: remote 4
