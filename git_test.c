@@ -8,6 +8,7 @@ int main(){
     //soft和hard的区别：
     //暂存测试
     //在VS Code中使用git
+    //在git测试合并
 
     return 0;
 }
