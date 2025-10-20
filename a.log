@@ -37,3 +37,6 @@ reset soft 1
 
 ##10.19
 1.从git bash启动ssh-agent添加私钥后再通过code命令启动VScode可以免密
+
+##10.20
+1.测试是否还需输入密码
